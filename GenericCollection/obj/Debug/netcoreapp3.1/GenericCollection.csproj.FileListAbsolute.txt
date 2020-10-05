@@ -1,0 +1,13 @@
+C:\repos\C-Course\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.exe
+C:\repos\C-Course\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.deps.json
+C:\repos\C-Course\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.json
+C:\repos\C-Course\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.dev.json
+C:\repos\C-Course\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.dll
+C:\repos\C-Course\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.pdb
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csprojAssemblyReference.cache
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfoInputs.cache
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfo.cs
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.dll
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.pdb
+C:\repos\C-Course\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.genruntimeconfig.cache

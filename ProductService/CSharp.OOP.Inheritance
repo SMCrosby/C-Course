@@ -1,0 +1,19 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace WidjetI
+{
+    class CSharp : Products {
+
+		class Widjet : Products { 
+		
+		public string Size { get; set; } = "Medium";
+		public string Model { get; set; } = "Basic"
+		
+		}
+
+
+
+    }
+}
