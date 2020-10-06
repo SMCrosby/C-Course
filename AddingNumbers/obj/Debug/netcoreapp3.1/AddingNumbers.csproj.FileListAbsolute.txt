@@ -1,0 +1,13 @@
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.csprojAssemblyReference.cache
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.AssemblyInfoInputs.cache
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.AssemblyInfo.cs
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.exe
+C:\repos\C-Course\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.deps.json
+C:\repos\C-Course\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.runtimeconfig.json
+C:\repos\C-Course\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.runtimeconfig.dev.json
+C:\repos\C-Course\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.dll
+C:\repos\C-Course\AddingNumbers\bin\Debug\netcoreapp3.1\AddingNumbers.pdb
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.dll
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.pdb
+C:\repos\C-Course\AddingNumbers\obj\Debug\netcoreapp3.1\AddingNumbers.genruntimeconfig.cache

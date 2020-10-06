@@ -1,0 +1,13 @@
+C:\repos\C-Course\Practice-Notes\bin\Debug\netcoreapp3.1\Practice-Notes.exe
+C:\repos\C-Course\Practice-Notes\bin\Debug\netcoreapp3.1\Practice-Notes.deps.json
+C:\repos\C-Course\Practice-Notes\bin\Debug\netcoreapp3.1\Practice-Notes.runtimeconfig.json
+C:\repos\C-Course\Practice-Notes\bin\Debug\netcoreapp3.1\Practice-Notes.runtimeconfig.dev.json
+C:\repos\C-Course\Practice-Notes\bin\Debug\netcoreapp3.1\Practice-Notes.dll
+C:\repos\C-Course\Practice-Notes\bin\Debug\netcoreapp3.1\Practice-Notes.pdb
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.csprojAssemblyReference.cache
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.AssemblyInfoInputs.cache
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.AssemblyInfo.cs
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.dll
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.pdb
+C:\repos\C-Course\Practice-Notes\obj\Debug\netcoreapp3.1\Practice-Notes.genruntimeconfig.cache

@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibraryProject/1.0.0": {
+        "dependencies": {
+          "SharedLibrary": "1.0.0",
+          "UtilityLibrary2": "1.0.0"
+        },
+        "runtime": {
+          "LibraryProject.dll": {}
+        }
+      },
+      "SharedLibrary/1.0.0": {
+        "runtime": {
+          "SharedLibrary.dll": {}
+        }
+      },
+      "UtilityLibrary2/1.0.0": {
+        "runtime": {
+          "UtilityLibrary2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SharedLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UtilityLibrary2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

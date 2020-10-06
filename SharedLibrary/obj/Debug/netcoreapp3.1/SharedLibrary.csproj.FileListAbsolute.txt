@@ -1,0 +1,9 @@
+C:\repos\C-Course\SharedLibrary\bin\Debug\netcoreapp3.1\SharedLibrary.deps.json
+C:\repos\C-Course\SharedLibrary\bin\Debug\netcoreapp3.1\SharedLibrary.dll
+C:\repos\C-Course\SharedLibrary\bin\Debug\netcoreapp3.1\SharedLibrary.pdb
+C:\repos\C-Course\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.csprojAssemblyReference.cache
+C:\repos\C-Course\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.AssemblyInfoInputs.cache
+C:\repos\C-Course\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.AssemblyInfo.cs
+C:\repos\C-Course\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.dll
+C:\repos\C-Course\SharedLibrary\obj\Debug\netcoreapp3.1\SharedLibrary.pdb

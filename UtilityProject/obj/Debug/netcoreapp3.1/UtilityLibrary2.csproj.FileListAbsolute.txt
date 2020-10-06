@@ -1,0 +1,9 @@
+C:\repos\C-Course\UtilityProject\bin\Debug\netcoreapp3.1\UtilityLibrary2.deps.json
+C:\repos\C-Course\UtilityProject\bin\Debug\netcoreapp3.1\UtilityLibrary2.dll
+C:\repos\C-Course\UtilityProject\bin\Debug\netcoreapp3.1\UtilityLibrary2.pdb
+C:\repos\C-Course\UtilityProject\obj\Debug\netcoreapp3.1\UtilityLibrary2.csprojAssemblyReference.cache
+C:\repos\C-Course\UtilityProject\obj\Debug\netcoreapp3.1\UtilityLibrary2.AssemblyInfoInputs.cache
+C:\repos\C-Course\UtilityProject\obj\Debug\netcoreapp3.1\UtilityLibrary2.AssemblyInfo.cs
+C:\repos\C-Course\UtilityProject\obj\Debug\netcoreapp3.1\UtilityLibrary2.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\UtilityProject\obj\Debug\netcoreapp3.1\UtilityLibrary2.dll
+C:\repos\C-Course\UtilityProject\obj\Debug\netcoreapp3.1\UtilityLibrary2.pdb
