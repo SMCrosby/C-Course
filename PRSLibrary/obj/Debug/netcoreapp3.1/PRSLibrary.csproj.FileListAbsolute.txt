@@ -1,0 +1,9 @@
+C:\repos\C-Course\PRSLibrary\bin\Debug\netcoreapp3.1\PRSLibrary.deps.json
+C:\repos\C-Course\PRSLibrary\bin\Debug\netcoreapp3.1\PRSLibrary.dll
+C:\repos\C-Course\PRSLibrary\obj\Debug\netcoreapp3.1\PRSLibrary.csprojAssemblyReference.cache
+C:\repos\C-Course\PRSLibrary\obj\Debug\netcoreapp3.1\PRSLibrary.AssemblyInfoInputs.cache
+C:\repos\C-Course\PRSLibrary\obj\Debug\netcoreapp3.1\PRSLibrary.AssemblyInfo.cs
+C:\repos\C-Course\PRSLibrary\bin\Debug\netcoreapp3.1\PRSLibrary.pdb
+C:\repos\C-Course\PRSLibrary\obj\Debug\netcoreapp3.1\PRSLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\PRSLibrary\obj\Debug\netcoreapp3.1\PRSLibrary.dll
+C:\repos\C-Course\PRSLibrary\obj\Debug\netcoreapp3.1\PRSLibrary.pdb
