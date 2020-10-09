@@ -1,0 +1,12 @@
+C:\repos\C-Course\EntityFrameworkLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkLibrary.deps.json
+C:\repos\C-Course\EntityFrameworkLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkLibrary.dll
+C:\repos\C-Course\EntityFrameworkLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkLibrary.pdb
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.csprojAssemblyReference.cache
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.AssemblyInfoInputs.cache
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.AssemblyInfo.cs
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.dll
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.pdb
+C:\repos\C-Course\EntityFrameworkLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkLibrary.runtimeconfig.json
+C:\repos\C-Course\EntityFrameworkLibrary\bin\Debug\netcoreapp3.1\EntityFrameworkLibrary.runtimeconfig.dev.json
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\EntityFrameworkLibrary\obj\Debug\netcoreapp3.1\EntityFrameworkLibrary.genruntimeconfig.cache
