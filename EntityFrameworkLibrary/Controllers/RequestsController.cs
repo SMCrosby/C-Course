@@ -14,6 +14,14 @@ namespace EntityFrameworkLibrary.Controllers {
             _context = context;
         }
 
+        //Retrieves all requests that have a status as in review
+        public List<Request> GetRequestsInReview() {
+            return _context.Request.Where(r => r.Status == "REVIEW").ToList();      //returns query results as a list
+
+        }
+
+
+
         public bool RecalculateRequestTotal(int Id) {
             var request = _context.Request.Find(Id);
             var reqTotal = (from li in _context.LineItem.ToList()
@@ -24,7 +32,7 @@ namespace EntityFrameworkLibrary.Controllers {
                                 LineTotal = li.Quantity * pr.Price       //Creating new column called LineTotal
                             }).Sum(t => t.LineTotal);
 
-            request.Total = reqTotal;
+            request.Total = reqTotal;       //updates the Total in table to match newTotal
             _context.SaveChanges();
             return true;
         }

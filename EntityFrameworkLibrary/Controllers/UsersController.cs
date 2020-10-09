@@ -32,6 +32,8 @@ namespace EntityFrameworkLibrary {
             //        .SingleOrDefault(u => u.Username == username && u.Password == password);      //u = instance of class/Collection
             
 
+
+            //.Find -- only works with primary keys
         }
 
     }

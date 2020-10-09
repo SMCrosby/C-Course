@@ -11,12 +11,18 @@ namespace EntityFrameworkProject {
             var _context = new prsContext();
 
             var UserCtrl = new UsersController(_context);
+            var ReqCtrl = new RequestsController(_context);
+            var VenCtrl = new VendorsController(_context);
+
+            var vend1 = VenCtrl.GetVendorByCode("2");               //locates a specidic vendor by it's vendor.code
+
+
+            var requestInReview = ReqCtrl.GetRequestsInReview();
 
             //test the login function
             var user = UserCtrl.Login("xx", "xx");
             var userz = UserCtrl.Login("zz", "zz");
 
-            var ReqCtrl = new RequestsController(_context);
 
             var updTotal = ReqCtrl.RecalculateRequestTotal(1);
 
