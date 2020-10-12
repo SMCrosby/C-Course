@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>EF_CodeFirst</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201012142628_Initialization.cs" />
+    <Compile Remove="Migrations\20201012142628_Initialization.Designer.cs" />
+    <Compile Remove="Migrations\20201012143424_Initialization.cs" />
+    <Compile Remove="Migrations\20201012143424_Initialization.Designer.cs" />
+    <Compile Remove="Migrations\20201012180440_Added Order table.cs" />
+    <Compile Remove="Migrations\20201012180440_Added Order table.Designer.cs" />
+    <Compile Remove="Migrations\20201012180808_Added order.cs" />
+    <Compile Remove="Migrations\20201012180808_Added order.Designer.cs" />
+    <Compile Remove="Migrations\20201012193603_xxx.cs" />
+    <Compile Remove="Migrations\20201012193603_xxx.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Castle.Windsor" Version="5.0.1" />
+    <PackageReference Include="microsoft.entityframeworkcore.sqlserver" Version="3.1.8" />
+    <PackageReference Include="microsoft.entityframeworkcore.tools" Version="3.1.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+</Project>

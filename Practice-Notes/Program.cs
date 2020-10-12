@@ -3,6 +3,18 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
+/*
+--Inside Package Manager --
+install - package microsoft.entityframeworkcore.tools
+install-package microsoft.entityframeworkcore.sqlserver
+
+add-migration "Initialization"
+remove-migration
+update-database
+*/
+
+
+
 namespace Practice_Notes {
     class Program {
         static void Main(string[] args) {
@@ -68,6 +80,33 @@ namespace Practice_Notes {
 
             */
 
+
+            /*---Attributes used for "Code First" EntityFramework to SQL
+            
+            [Required]                                      -Not Null
+            [StringLength(50)]                              -String(50)     -Max length for string is 50 characters
+            public string Description { get; set; }
+            
+            [Column(TypeName = "decimal(11,2)")]            -Sets the type as decimal in SQL (11,2) (ints,decimals)
+            public decimal Total { get; set; }
+            
+            [Column(TypeName = "datetime")]                 -Sets the type to datetime in SQL
+            public DateTime Created { get; set; }
+
+            */
+
+
         }
     }
 }
+
+
+
+/*
+ ------Adding unique property to CodeFirst----  Add block in context class
+ protected override void OnModelCreating(ModelBuilder builder) {     //Tables without FKey's go first //fluent-api's go here
+            
+            //start with variable name
+            builder.Entity<Customer>(e => {
+                e.HasIndex(x => x.Code).IsUnique();
+*/
