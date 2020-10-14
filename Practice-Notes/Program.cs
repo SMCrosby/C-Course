@@ -91,8 +91,22 @@ namespace Practice_Notes {
             public decimal Total { get; set; }
             
             [Column(TypeName = "datetime")]                 -Sets the type to datetime in SQL
-            public DateTime Created { get; set; }
+            public DateTime Created { get; set; } = DateTime.Now;   //uses current time as default
 
+            public bool Active { get; set; } = true;        //Defaults to false
+
+            public int CustomerId { get; set; }
+            public virtual Customer Customer { get; set; }     //virtual instance of customer in class 
+                                                            --need to use virtual since theres not an actual column for this
+
+            */
+            /*
+             ------Adding unique property to CodeFirst----  Add block in context class
+             protected override void OnModelCreating(ModelBuilder builder) {     //Tables without FKey's go first //fluent-api's go here
+            
+                        //start with variable name
+                        builder.Entity<Customer>(e => {
+                            e.HasIndex(x => x.Code).IsUnique();
             */
 
 
@@ -101,12 +115,3 @@ namespace Practice_Notes {
 }
 
 
-
-/*
- ------Adding unique property to CodeFirst----  Add block in context class
- protected override void OnModelCreating(ModelBuilder builder) {     //Tables without FKey's go first //fluent-api's go here
-            
-            //start with variable name
-            builder.Entity<Customer>(e => {
-                e.HasIndex(x => x.Code).IsUnique();
-*/
