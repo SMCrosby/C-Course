@@ -10,12 +10,22 @@ namespace SalesWebApiEF.Data
     public class SalesContext : DbContext
     {
         public SalesContext (DbContextOptions<SalesContext> options)
-            : base(options)
-        {
+            : base(options) {
         }
 
         public DbSet<SalesWebApiEF.Models.Customer> Customer { get; set; }
 
         public DbSet<SalesWebApiEF.Models.Order> Order { get; set; }
+
+        public DbSet<SalesWebApiEF.Models.Orderline> Orderline { get; set; }
+
+        public DbSet<SalesWebApiEF.Models.Product> Product { get; set; }
+
+
+        protected override void OnModelCreating(ModelBuilder builder) {
+            builder.Entity<Customer>(e => {
+                e.HasIndex(x => x.Code).IsUnique();
+            });
+        }
     }
 }

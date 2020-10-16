@@ -13,6 +13,13 @@ remove-migration
 update-database
 */
 
+/*
+ --Website address--
+http://localhost:64212/api/customers        //customers was name of controller CustomersController --use controller name without the word controller
+http://localhost:64212/api/customers/2      // the "/2" only pulls up info from customer with Id = 2
+ 
+ */
+
 
 
 namespace Practice_Notes {
@@ -104,11 +111,28 @@ namespace Practice_Notes {
              ------Adding unique property to CodeFirst----  Add block in context class
              protected override void OnModelCreating(ModelBuilder builder) {     //Tables without FKey's go first //fluent-api's go here
             
-                        //start with variable name
+                            //start with variable name
                         builder.Entity<Customer>(e => {
                             e.HasIndex(x => x.Code).IsUnique();
+                        });
             */
 
+
+            /*
+             ---Login---Check username/password---
+             public Users Login(string username, string password) {
+           var user = _context.Users
+                    .SingleOrDefault(u => u.Username == username && u.Password == password);      //u = instance of class/Collection
+            return user;
+
+            */
+
+
+            /*
+             --Rounding and converting decimal to int--
+             decimal a ;
+                int b = (int)(a + 0.5m);
+            */
 
         }
     }

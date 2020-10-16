@@ -7,22 +7,17 @@ using System.Threading.Tasks;
 
 namespace SalesWebApiEF.Models {
 
-    public class Order {
+    public class Product {
 
         public int Id { get; set; }
         [Required]
         [StringLength(30)]
         public string Description { get; set; }
-        [Column(TypeName = "decimal(11,2)")]
-        public decimal Total { get; set; }
-        [Column(TypeName = "datetime")]
-        public DateTime Created { get; set; } = DateTime.Now;
-        
-        public int CustomerId { get; set; }
-        public virtual Customer Customer { get; set; }
+        [Column(TypeName = "Decimal(11,2)")]
+        public decimal Price { get; set; }
 
 
-        public Order() { }
+        public Product() { }
+
     }
 }
-
