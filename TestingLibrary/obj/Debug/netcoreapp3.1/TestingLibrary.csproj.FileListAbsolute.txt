@@ -1,0 +1,9 @@
+C:\repos\C-Course\TestingLibrary\bin\Debug\netcoreapp3.1\TestingLibrary.deps.json
+C:\repos\C-Course\TestingLibrary\bin\Debug\netcoreapp3.1\TestingLibrary.dll
+C:\repos\C-Course\TestingLibrary\bin\Debug\netcoreapp3.1\TestingLibrary.pdb
+C:\repos\C-Course\TestingLibrary\obj\Debug\netcoreapp3.1\TestingLibrary.csprojAssemblyReference.cache
+C:\repos\C-Course\TestingLibrary\obj\Debug\netcoreapp3.1\TestingLibrary.AssemblyInfoInputs.cache
+C:\repos\C-Course\TestingLibrary\obj\Debug\netcoreapp3.1\TestingLibrary.AssemblyInfo.cs
+C:\repos\C-Course\TestingLibrary\obj\Debug\netcoreapp3.1\TestingLibrary.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\TestingLibrary\obj\Debug\netcoreapp3.1\TestingLibrary.dll
+C:\repos\C-Course\TestingLibrary\obj\Debug\netcoreapp3.1\TestingLibrary.pdb

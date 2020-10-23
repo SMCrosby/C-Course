@@ -1,0 +1,16 @@
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingProject.exe
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingProject.deps.json
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingProject.runtimeconfig.json
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingProject.runtimeconfig.dev.json
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingProject.dll
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingProject.pdb
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.csprojAssemblyReference.cache
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.AssemblyInfoInputs.cache
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.AssemblyInfo.cs
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.csproj.CoreCompileInputs.cache
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.dll
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.pdb
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.genruntimeconfig.cache
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingLibrary.dll
+C:\repos\C-Course\TestingProject\bin\Debug\netcoreapp3.1\TestingLibrary.pdb
+C:\repos\C-Course\TestingProject\obj\Debug\netcoreapp3.1\TestingProject.csproj.CopyComplete
