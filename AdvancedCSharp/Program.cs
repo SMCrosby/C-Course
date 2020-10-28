@@ -84,7 +84,7 @@ namespace AdvancedCSharp {
                 case "OH": stateName = "Ohio"; break;           //break says we're done with this case
                 case "KY": stateName = "Kentucky"; break;
                 case "IN": stateName = "Indiana"; break;
-                default: stateName = "I Don't Know"; break      //defaults to I don't know. --the same as the end of an else statement
+                default: stateName = "I Don't Know"; break;      //defaults to I don't know. --the same as the end of an else statement
             }
 
             //Switch Expression     -- does the same as the statement above just different syntax

@@ -5,7 +5,7 @@ using System.Linq;
 
 /*
 --Inside Package Manager --
-install - package microsoft.entityframeworkcore.tools
+install-package microsoft.entityframeworkcore.tools
 install-package microsoft.entityframeworkcore.sqlserver
 
 add-migration "Initialization"
@@ -38,7 +38,7 @@ namespace Practice_Notes {
 
 
 
-            
+
 
             Console.WriteLine($"My name is {myName}");      //formating = Interpolation
 
@@ -53,11 +53,32 @@ namespace Practice_Notes {
                     542, 758, 372, 447, 497};
 
             int total = 0;
-            foreach (var i in nbr){                 //adding numbers in nbr list
-                                                    // i is an independent variable for the foreach loop
+            foreach (var i in nbr) {                 //adding numbers in nbr list
+                                                     // i is an independent variable for the foreach loop
                 total += i;                         // total = total + number;   -- shorthand
 
             }
+
+            int answer1(int a, int b) {
+                int[] nbrs =
+                    { 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21,
+                    22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34 };
+
+                return (int)nbrs.Average();
+            }
+
+            int answer2() {    //same as the last question
+                var sum = 0;
+                var count = 1;
+                for (var idx = 9; idx < 35; idx++) {
+                    sum = sum + idx;
+                    count++;
+                }
+            int avg = (sum / count);
+            Console.WriteLine(avg);
+            }
+
+
 
 
 
